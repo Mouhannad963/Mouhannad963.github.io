@@ -9,10 +9,6 @@ published: true
 ### (Introductory Networking room from tryhackme)
 .......
 
-
-
-
-
 ## Task 2 
 ### Which layer would choose to send data over TCP or UDP?
 udp,tcpيتم تحديد البروتوكول الذي من خلال سيتم ارسال البيانات وهما ال    osi في الطبقة الرابعة من نموذج ال  
