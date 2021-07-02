@@ -8,7 +8,8 @@ published: true
 ##   السلام عليكم ورحمة الله  , انا مهند الحميدي من  مجتمع نكرة ان شاء الله في هذه البلوغ رح نحل 
 ### (Introductory Networking room from tryhackme)
 .......
-![]({{site.baseurl}}/https://imgur.com/xYyh7co)
+![Screenshot 2021-07-02 090052.png]({{site.baseurl}}/_posts/Screenshot 2021-07-02 090052.png)
+
 ## Task 2 
 ### Which layer would choose to send data over TCP or UDP?
 udp,tcpيتم تحديد البروتوكول الذي من خلال سيتم ارسال البيانات وهما ال    osi في الطبقة الرابعة من نموذج ال  
