@@ -91,6 +91,7 @@ datagrams
 ### ANSWER : Connection-based
 
 ### What is SYN short for?
+![Screenshot 2021-07-02 085219.png]({{site.baseurl}}/_posts/Screenshot 2021-07-02 085219.png)
 
 ### ANSWER : Synchronise
 
