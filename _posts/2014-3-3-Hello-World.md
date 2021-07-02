@@ -91,7 +91,7 @@ datagrams
 ### ANSWER : Connection-based
 
 ### What is SYN short for?
-![Screenshot 2021-07-02 085219.png]({{site.baseurl}}/_posts/Screenshot 2021-07-02 085219.png)
+
 
 ### ANSWER : Synchronise
 
@@ -115,29 +115,29 @@ datagrams
 ### ANSWER : 217.160.0.152
 
 ### What switch lets you change the interval of sent ping requests?
- ![]({{site.baseurl}}/_posts/Screenshot%202021-07-01%20230511.png)
+
 ### ANSWER : -i
 
 ### What switch would allow you to restrict requests to IPv4?
 
-![]({{site.baseurl}}/_posts/Screenshot%202021-07-01%20230511.png)
+
 
 ### ANSWER : -4
 
 ### What switch would give you a more verbose output?
 
-![]({{site.baseurl}}/_posts/Screenshot%202021-07-01%20230511.png)
+
 
 ### ANSWER : -v
 
 ## TASK 6
 ### What switch would you use to specify an interface when using Traceroute?
-![]({{site.baseurl}}/_posts/Screenshot%202021-07-01%20230511.png)
+
 ### ANSWER : -i
 
 ### What switch would you use if you wanted to use TCP SYN requests when tracing the route?
 
-![]({{site.baseurl}}/_posts/Screenshot%202021-07-01%20230511.png)
+
 ### ANSWER : -T
 
 ### [Lateral Thinking] Which layer of the TCP/IP model will traceroute run on by default (Windows)?
@@ -149,24 +149,24 @@ datagrams
 
 ### What is the registrant postal code for facebook.com?
 
-![]({{site.baseurl}}/_posts/Screenshot%202021-07-01%20230511.png)
+
 
 ### ANSWER : 94025
 
 ### When was the facebook.com domain first registered?
 
-![]({{site.baseurl}}/_posts/Screenshot%202021-07-01%20233538.png)![Screenshot 2021-07-01 233538.png]({{site.baseurl}}/_posts/Screenshot 2021-07-01 233538.png)
+
 
 ### ANSWER : 29/03/1997
 
 ### Which city is the registrant based in?
 
-![]({{site.baseurl}}/_posts/Screenshot%202021-07-01%20233538.png)
+
 
 ### ANSWER : Redmond
 
 ### [OSINT] What is the name of the golf course that is near the registrant address for microsoft.com?
 
-![]({{site.baseurl}}/_posts/Screenshot%202021-07-01%20234244.png)
+
 
 ### ANSWER : Bellevue Golf Course
