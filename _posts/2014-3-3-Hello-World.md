@@ -105,11 +105,12 @@ datagrams
 
 ### What command would you use to ping the bbc.co.uk website?
 من خلال الاسم او العنوان  ping نستطيع استخدام تعليمة  
-![Screenshot 2021-07-01 230511.png]({{site.baseurl}}/_posts/Screenshot 2021-07-01 230511.png)
 
 ### ANSWER : ping bbc.co.uk
 
 ### Ping muirlandoracle.co.uk What is the IPv4 address?
+![Screenshot 2021-07-02 081208.png]({{site.baseurl}}/_posts/Screenshot 2021-07-02 081208.png)
+
 ### ANSWER : 217.160.0.152
 
 ### What switch lets you change the interval of sent ping requests?
